@@ -11,4 +11,4 @@ How  to  overcome  these  two  challenges  is  still  not  fully-investigated.
 
 <h2> Project Overview </h2>
 In this work we replicate the work and approach discuss in this paper to build the <b>QCNN</b> which is also called <b> Quaternion Neural Network </b>.
-We use Encoder decoder approach as well as instead of doing the normal convolution, we perform the Quaternion convolution where Convolution in the quaternion domain is done by convolving quaternion  filter <img src="http://www.sciweavers.org/upload/Tex2Img_1608651260/render.png"/> by a quaternion vector <img src=""/>
+We use Encoder decoder approach as well as instead of doing the normal convolution, we perform the Quaternion convolution where Convolution in the quaternion domain is done by convolving quaternion  filter ![Image of Yaktocat]("http://www.sciweavers.org/upload/Tex2Img_1608651260/render.png") by a quaternion vector <img src=""/>
