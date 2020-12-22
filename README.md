@@ -15,4 +15,4 @@ We use Encoder decoder approach as well as instead of doing the normal convoluti
 
 <h2> Quaternion Convolution </h2>
 As discuss above we perform the Quaternion convolution between Quaternion weights and Quaternion vector: <b>W*V</b>,
-After expanding <img src="http://www.sciweavers.org/upload/Tex2Img_1608652074/render.png" width=300 height=20/>
+After expanding <img src="http://www.sciweavers.org/upload/Tex2Img_1608652074/render.png" width=600 height=20/>
