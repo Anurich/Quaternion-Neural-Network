@@ -11,4 +11,8 @@ How  to  overcome  these  two  challenges  is  still  not  fully-investigated.
 
 <h2> Project Overview </h2>
 In this work we replicate the work and approach discuss in this paper to build the <b>QCNN</b> which is also called <b> Quaternion Neural Network </b>.
-We use Encoder decoder approach as well as instead of doing the normal convolution, we perform the Quaternion convolution where Convolution in the quaternion domain is done by convolving quaternion  filter <img src="http://www.sciweavers.org/upload/Tex2Img_1608651260/render.png" alt="alt text" width="200" height="20"/> by a quaternion vector <img src="http://www.sciweavers.org/upload/Tex2Img_1608651878/render.png" width="200" height="20"/>
+We use Encoder decoder approach as well as instead of doing the normal convolution, we perform the Quaternion convolution where Convolution in the quaternion domain is done by convolving quaternion filter: <img src="http://www.sciweavers.org/upload/Tex2Img_1608651260/render.png" alt="alt text" width="200" height="20"/> by a quaternion vector: <img src="http://www.sciweavers.org/upload/Tex2Img_1608651878/render.png" width="200" height="20"/>
+
+<h2> Quaternion Convolution </h2>
+As discuss above we perform the Quaternion convolution between Quaternion weights and Quaternion vector: <b>W*V</b>,
+After expanding <img src="http://www.sciweavers.org/upload/Tex2Img_1608652074/render.png" width=300 height=20/>
